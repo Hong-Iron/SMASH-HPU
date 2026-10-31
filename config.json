@@ -1,0 +1,42 @@
+{
+  "code": "HPU",
+  "title": "SMASH HPU",
+  "school": "한림성심대",
+  "fullName": "한림성심대학교",
+  "campusName": "한림성심대학교",
+  "tagline": "한림성심대를 부셔 (시험기간 스트레스 해소)",
+  "description": "한림성심대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 한림성심대학교 3D 화면과 SMASH HPU 제목",
+  "url": "https://hong-iron.github.io/SMASH-HPU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 564305938
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.8999642,
+        127.7545185
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 산학창의관(17번) 지붕 안에 통째로 들어가 겹쳐 그려진 작은 조각이라 따로 서 있는 건물이 아니다."
+    },
+    {
+      "at": [
+        37.8999077,
+        127.7546216
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 절반은 산학창의관(17번) 지붕과 겹치고 나머지 절반은 주차된 차들 위에 그려진 조각이라 따로 서 있는 건물이 아니다."
+    }
+  ]
+}
