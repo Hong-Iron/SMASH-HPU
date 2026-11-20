@@ -1,0 +1,34 @@
+{
+ "region": "강원 춘천시 동면",
+ "nameEn": "Hallym Polytechnic University",
+ "added": "2026-11-01T02:27",
+ "rank": 229,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HALLYM",
+   "campus": "한림대학교",
+   "km": 2.1
+  },
+  {
+   "code": "KANGWON",
+   "campus": "강원대학교 춘천캠퍼스",
+   "km": 3.7
+  },
+  {
+   "code": "CCNUE",
+   "campus": "춘천교육대학교",
+   "km": 4.5
+  },
+  {
+   "code": "SONGGOK",
+   "campus": "송곡대학교",
+   "km": 15.1
+  },
+  {
+   "code": "KYUNGBOK",
+   "campus": "경복대학교 남양주캠퍼스",
+   "km": 51.2
+  }
+ ]
+}
